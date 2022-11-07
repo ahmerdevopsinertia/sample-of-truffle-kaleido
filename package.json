@@ -1,0 +1,37 @@
+{
+  "name": "@kaleido-io/drizzle-kaleido-box",
+  "version": "0.1.2",
+  "description": "Boilerplate to get up and running quickly with Drizzle & Truffle on a Kaleido chain.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@drizzle/react-components": "^1.5.3",
+    "@drizzle/react-plugin": "^1.5.3",
+    "@drizzle/store": "^1.5.3",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "retry": "^0.13.1",
+    "truffle": "^5.5.15",
+    "web3": "^1.7.3"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleido-io/drizzle-kaleido-box.git"
+  },
+  "keywords": [
+    "drizzle",
+    "truffle",
+    "kaleido"
+  ],
+  "author": "Kaleido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleido-io/drizzle-kaleido-box/issues"
+  },
+  "homepage": "https://github.com/kaleido-io/drizzle-kaleido-box#readme"
+}
